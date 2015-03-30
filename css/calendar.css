@@ -463,6 +463,9 @@ span[data-cal-date]:hover {
 .cal-day-today {
   background-color: #e8fde7;
 }
+.cal-day-past {
+  background-color: #F1F1F1;
+}
 .cal-day-today span[data-cal-date] {
   color: darkgreen;
 }
